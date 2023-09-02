@@ -2,6 +2,6 @@
 
 I'm radstevee!
 
-I'm someone who likes to play Minecraft and code Plugins for it.
+I like making Minecraft mods & plugins, also just random personal stuff.
 
-Also I like making discord bots and I use arch btw
+Arch user btw.
