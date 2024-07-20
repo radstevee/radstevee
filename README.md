@@ -6,6 +6,8 @@ mod @[mcbrawls](https://github.com/mcbrawls)
 
 kotlin lover
 
+rust lover
+
 notable public projects
 
 - [universes](https://github.com/mire-net/universes): structure management lib for paper
