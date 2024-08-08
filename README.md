@@ -8,7 +8,7 @@ kotlin lover
 
 rust lover
 
-notable public projects
+somewhat notable public projects
 
 - [universes](https://github.com/mire-net/universes): structure management lib for paper
 - [packed](https://github.com/radstevee/packed): library for generating resource packs using kotlin
