@@ -10,5 +10,5 @@ rust lover
 
 somewhat notable public projects
 
-- [universes](https://github.com/mire-net/universes): structure management lib for paper
 - [packed](https://github.com/radstevee/packed): library for generating resource packs using kotlin
+- [deepfry](https://github.com/radstevee/deepfry): library and cli tool for deepfrying images
