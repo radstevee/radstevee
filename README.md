@@ -1,14 +1,8 @@
-lead dev @[mire-net](https://github.com/mire-net)
+rust > kotlin > go > anything else
 
-lead dev @[mc-infinite](https://github.com/mc-infinite)
-
-mod @[mcbrawls](https://github.com/mcbrawls)
-
-kotlin lover
-
-rust lover
-
-somewhat notable public projects
+currently working on:
 
 - [packed](https://github.com/radstevee/packed): library for generating resource packs using kotlin
 - [deepfry](https://github.com/radstevee/deepfry): library and cli tool for deepfrying images
+- the command api for [ferrumc](https://github.com/ferrumc-rs/ferrumc): a rewrite of the minecraft server in rust
+- probably a ton of other random stuff
