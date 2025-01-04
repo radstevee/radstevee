@@ -9,3 +9,7 @@ currently working on:
 - [sploon](https://github.com/sploonmc/sploon): spigot development toolchain for gradle
 - [sploon-bin-patch-gen](https://github.com/sploonmc/bin-patch-gen): spigot binary patch generator
 - probably a ton of other random stuff
+
+![my github stats](https://github-readme-stats-woad-ten-62.vercel.app/api/?username=radstevee&layout=compact&theme=radical)
+
+sadly these do not include organizations which is most of my work :(
