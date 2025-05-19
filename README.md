@@ -10,7 +10,6 @@ currently working on:
 
 ![my github stats](https://github-readme-stats-woad-ten-62.vercel.app/api/?username=radstevee&layout=compact&theme=radical)
 
-sadly these do not include organizations which is most of my work :(
 
 my technologies:
 
