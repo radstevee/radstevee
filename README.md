@@ -1,4 +1,4 @@
-rust > kotlin > go > anything else
+rust > kotlin > go > c > anything else > java > javascript > typescript
 
 currently working on:
 
