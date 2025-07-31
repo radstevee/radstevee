@@ -9,7 +9,7 @@ currently working on:
 - probably a ton of other random stuff
 
 ![my github stats](https://github-readme-stats-woad-ten-62.vercel.app/api/?username=radstevee&layout=compact&theme=radical)
-![my most used languages](https://github-readme-stats-woad-ten-62.vercel.app/api/top-langs?username=radstevee&layout=compact&theme=radical&exclude_repo=dotfiles)
+![my most used languages](https://github-readme-stats-woad-ten-62.vercel.app/api/top-langs?username=radstevee&layout=compact&theme=radical&exclude_repo=dotfiles&size_weight=0.5&count_weight=1.0)
 
 
 my technologies:
